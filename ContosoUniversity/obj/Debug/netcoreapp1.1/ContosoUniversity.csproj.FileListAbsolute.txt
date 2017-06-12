@@ -1,0 +1,9 @@
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+D:\Profiles\dpiatti\Projects\NetCoreExamples\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
