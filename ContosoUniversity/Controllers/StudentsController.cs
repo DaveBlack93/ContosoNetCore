@@ -19,6 +19,12 @@ namespace ContosoUniversity.Controllers
             _context = context;    
         }
 
+        [HttpGet]
+        public IActionResult List()
+        {
+            return Ok(_context.Students.ToList());
+        }
+
         // GET: Students
         public async Task<IActionResult> Index()
         {
